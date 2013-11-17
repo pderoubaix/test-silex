@@ -3,6 +3,9 @@
         "silex/silex": "~1.1",
         "m6web/firewall": "dev-master",
         "stack/url-map": "1.0.*@dev",
-        "stack/builder": "1.0.*@dev"
+        "stack/builder": "1.0.*@dev",
+        "silex/web-profiler": "~1.0",
+        "stack/lazy-http-kernel" : "dev-master",
+        "twig/twig": ">=1.8,<2.0-dev"
     }
 }
